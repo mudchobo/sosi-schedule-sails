@@ -1,3 +1,2 @@
-# girls-generation-schedule
-
-a [Sails](http://sailsjs.org) application
+# sosi-schedule-sails
+sosi schedule sails example
